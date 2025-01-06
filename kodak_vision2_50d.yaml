@@ -1,0 +1,18 @@
+Film Simulation: "Provia/Standard"
+Dynamic Range: "DR200"
+Grain Effect: "Weak, Small"
+Color Chrome Effect: "Weak"
+Color Chrome FX Blue: "Off"
+White Balance:
+  Mode: "Daylight"
+  Shift:
+    Red: +2
+    Blue: -2
+Highlight Tone: -1
+Shadow Tone: +1
+Color: 0
+Sharpness: 0
+Noise Reduction: -2
+Clarity:
+ISO: 125
+Exposure Compensation: "Typically -1 to +1 (for daylight shoots, +1)
