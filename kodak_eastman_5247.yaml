@@ -1,0 +1,24 @@
+Film Simulation: "Classic Chrome"
+Dynamic Range: "200% or 400%"
+
+Tone Curve:
+  Highlight: -1
+  Shadow: +2
+
+Color: +2
+Sharpness: -1
+Noise Reduction: -4
+Grain Effect: "Strong, Large"
+
+White Balance:
+  Tungsten (3200K):
+    Shift:
+      Red: -3
+      Blue: -2
+  Daylight (5000 or 5500K):
+    Shift:
+      Red: -3
+      Blue: -2
+    Note: "Use an 85B filter in this scenario"
+
+Color Chrome Effect: "Strong"
