@@ -1,0 +1,18 @@
+Film Simulation: "Provia/Standard"
+Dynamic Range: "DR400"
+Grain Effect: "Strong, Small"
+Color Chrome Effect: "Strong"
+Color Chrome FX Blue: "Strong"
+White Balance:
+  Mode: "Auto"
+  Shift:
+    Red: +2
+    Blue: -2
+Highlight Tone: -1
+Shadow Tone: +2
+Color: +3
+Sharpness: +1
+High ISO NR: -4
+Clarity: 
+ISO: 125
+Exposure Compensation: "Typically -1 to +1, depending on the scene"
