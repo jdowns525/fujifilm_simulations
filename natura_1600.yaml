@@ -1,0 +1,14 @@
+Base Simulation: "Classic Chrome (recommended, but feel free to experiment.)"
+Dynamic Range: "DR400 (always)"
+Grain Effect: "Strong, Large"
+White Balance:
+  Mode: "Daylight"
+  Shift:
+    Red: +2
+    Blue: -3
+Highlights: +1
+Shadows: +1
+Color: +2
+Sharpness: +1
+Noise Reduction: -2
+ISO: 1600
